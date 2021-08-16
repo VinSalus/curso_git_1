@@ -1,1 +1,3 @@
-Uma atualização de arquivo 2 
+Testando uma atualização de Arquivo 2
+
+enviando a funcionalidade x
